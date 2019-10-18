@@ -17,6 +17,7 @@
     </environments>
     <mappers>
         <mapper resource="JobsMapper.xml"/>
+        <mapper resource="MovieMapper.xml"/>
     </mappers>
 </configuration>
 
